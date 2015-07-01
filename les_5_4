@@ -1,0 +1,3 @@
+lineWidth = 50
+str = 'Chapter'
+puts str .ljust (lineWidth/2) + str .rjust (lineWidth/2)
